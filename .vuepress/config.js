@@ -2,7 +2,7 @@ module.exports = {
   "title": "APIUJI",
   "description": "閑庭漫步  雲捲雲舒",
   "dest": "public",
-  "base": "/gpliufeng.github.io/",
+  "base": "/APIUJI/",
   "head": [
     [
       "link",
