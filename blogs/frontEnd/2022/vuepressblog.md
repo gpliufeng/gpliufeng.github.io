@@ -126,7 +126,7 @@ npm run dev
 2、项目文件必要修改：
 
 - 修改`.gitignore`文件，添加`public`（与config.js中的dist的值保持一致，防止将打包后的静态文件一并上传）。
-- 修改config.js文件，增加`"base":"/github仓库名/"`。
+- 修改config.js文件，增加`"base":"/github仓库名/"`（若仓库名为xxxx.github.io，则此项不需增加配置）。
 
 3、将修改好的项目文件上传至新建的仓库（GitBash中执行）：
 
