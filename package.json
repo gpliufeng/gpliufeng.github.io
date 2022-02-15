@@ -10,5 +10,7 @@
     "vuepress": "1.8.2",
     "vuepress-theme-reco": "1.6.10"
   },
-  "description": "web for apiu"
+  "description": "web for apiu",
+  "homepage": "https://gpliufeng.github.io/gpliufeng.github.io"
+
 }
