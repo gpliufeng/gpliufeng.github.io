@@ -1,6 +1,6 @@
 ---
-title: Git相關點
-date: '2022-02-16 18:24:59 +0800'
+title: 相關點
+date: '2022-02-16 18:24:59 -0800'
 sidebar: 'auto'
 tags:
  - Git
