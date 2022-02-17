@@ -10,7 +10,7 @@ heroImageStyle: {
   margin-top: '9rem auto 2rem',
   margin-left: '9rem auto 2rem',
   margin-right: '9rem auto 2rem',
-  background: '#fff',
+  background: 'transparent',
   borderRadius: '1rem',
 }
 bgImageStyle: {
