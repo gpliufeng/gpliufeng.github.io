@@ -20,6 +20,10 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    "valineConfig": {
+      "appId": 'WwGjIEWshTx257juizabP08D-gzGzoHsz',// your appId
+      "appKey": 'fj8rK8npFA5qNqCzhIWfvYfy', // your appKey
+    },
     "nav": [
       {
         "text": "Home",
