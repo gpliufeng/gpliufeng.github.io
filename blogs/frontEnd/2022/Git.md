@@ -50,3 +50,20 @@ git commit -m "commit message"  #引號中衛本次提交的説明
 
 ### 二、將代碼推送至遠程
 
+1、配置账号登录权限（如GitHub、Gitee等，使用ssh密钥进行登录验证）；
+
+<img src="https://gitee.com/liufeng3214/imgbed/raw/master/img/image-20220225105044785.png" alt="image-20220225105044785" style="zoom:50%; " />
+
+2、配置远程仓库地址；
+
+```bash
+#链接为远程仓库地址
+git remote add origin https://xxx/xxxx.git
+```
+
+3、推送到远程仓库；
+
+```bash
+#若首次提交，且仓库为空，则需加上参数 -u
+git push (-u) origin master
+```
