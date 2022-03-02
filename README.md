@@ -13,6 +13,7 @@ heroImageStyle: {
   background: 'transparent',
   borderRadius: '1rem',
 }
+bgImage: 'https://mini.apiao.net.cn/bing/getPic'
 bgImageStyle: {
   height: '450px'
 }
