@@ -1,6 +1,9 @@
 ---
 home: true
 heroText: 閑庭漫步  雲捲雲舒
+heroTextStyle: {
+  font-color: '#DADEE3'
+}
 tagline:
 heroImage: /hero.png
 heroImageStyle: {
