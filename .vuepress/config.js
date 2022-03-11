@@ -53,6 +53,11 @@ module.exports = {
             "text": "GitHub",
             "link": "https://github.com/gpliufeng",
             "icon": "reco-github"
+          },
+          {
+            "text": "QQ邮箱",
+            "link": "mailto:1623401596@qq.com",
+            "icon": "reco-mail"
           }
         ]
       }
