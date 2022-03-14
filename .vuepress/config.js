@@ -58,6 +58,11 @@ module.exports = {
             "text": "QQ邮箱",
             "link": "mailto:1623401596@qq.com",
             "icon": "reco-mail"
+          },
+          {
+            "text": "官方文档",
+            "link": "https://vuepress-theme-reco.recoluan.com/",
+            "icon": "reco-document"
           }
         ]
       }
