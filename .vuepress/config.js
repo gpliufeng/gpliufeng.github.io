@@ -90,14 +90,9 @@ module.exports = {
       {
         "title": "作者博客",
         "desc": "Enjoy when you can, and endure when you must.",
+        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "email": "1156743527@qq.com",
         "link": "https://www.recoluan.com"
-      },
-      {
-        "title": "reco官方文档",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
     "logo": "/logo.png",
