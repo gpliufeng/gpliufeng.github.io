@@ -90,7 +90,7 @@ module.exports = {
       {
         "title": "作者博客",
         "desc": "Enjoy when you can, and endure when you must.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "avatar": "/head.png",
         "email": "1156743527@qq.com",
         "link": "https://www.recoluan.com"
       }
