@@ -17,7 +17,7 @@ categories:
 
 ### 汇总一些有意思的链接，防止之后找不到。。。（可能会过期）
 
-#### 文档类：
+### 文档类：
 
 - [Chrome DevTools中文文档](https://leeon.gitbooks.io/devtools/content/)
 - [微软关于win2008/r2日志官方文档](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd349801(v=ws.10))
@@ -29,7 +29,8 @@ categories:
 
 
 
-#### 工具类：
+### 工具类：
 
 - [Stripe支付接口](https://stripe.com/zh-cn-us)
 - [文本转语音工具](https://github.com/LuckyHookin/edge-TTS-record)
+- [Scss/Sass、Less的异同点简介](https://blog.csdn.net/guoqiankunmiss/article/details/106113821)

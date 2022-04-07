@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 閑庭漫步  雲捲雲舒
+heroText:
 tagline:
 heroImage: /hero.png
 heroImageStyle: {
