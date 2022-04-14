@@ -67,7 +67,7 @@ npm run dev
 
 若未出现问题则会自动启动浏览器并打开页面（http://localhost:8080），如下图：
 
-![bloghomepage](https://gitee.com/liufeng3214/imgbed/raw/master/img/b1903066c765706bebb0f0a21395e75d.png)
+![b1903066c765706bebb0f0a21395e75d](https://s2.loli.net/2022/04/14/JCrwLKBl97tAHXV.png)
 
 ### 三、自定义配置：
 
@@ -193,7 +193,7 @@ cd -
 
 打开仓库，并按图依次配置，输入复制的token值，并命名为BLOG_ACCESS_TOKEN（自定义）。
 
-![GitHub Actions](https://gitee.com/liufeng3214/imgbed/raw/master/img/image-20220214155201843.png)
+![GitHub Actions](https://s2.loli.net/2022/04/14/VNDvcITXE9QBPa1.png)
 
 打开项目根目录下的 `package.json` 文件，添加一个 `homepage` 字段，以此来指定项目发布后的根目录：
 
