@@ -37,3 +37,6 @@ categories:
 - [文本转语音工具](https://github.com/LuckyHookin/edge-TTS-record)
 - [Scss/Sass、Less的异同点简介](https://blog.csdn.net/guoqiankunmiss/article/details/106113821)
 - [Git Shell的部分实现参考](https://www.freesion.com/article/28181257799/)
+- [微软关于win2008/R2 日志的官方文档](
+  https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd349801(v=ws.10))
+- [微软关于win2008R2日志的官方文档查询入口（直接查询事件ID）](https://docs.microsoft.com/en-us/search/?scope=Server&dataSource=previousVersions)
