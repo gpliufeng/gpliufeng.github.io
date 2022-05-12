@@ -40,3 +40,12 @@ categories:
 - [微软关于win2008/R2 日志的官方文档](
   https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd349801(v=ws.10))
 - [微软关于win2008R2日志的官方文档查询入口（直接查询事件ID）](https://docs.microsoft.com/en-us/search/?scope=Server&dataSource=previousVersions)
+
+
+
+### 教程类：
+
+- [MDN](https://developer.mozilla.org/zh-CN/)
+- [Web.dev](https://web.dev/)
+- [Edge](https://docs.microsoft.com/zh-cn/microsoft-edge/#microsoft-edge-for-developers)
+- [FrontMaster](https://frontendmasters.com/learn/)
