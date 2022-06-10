@@ -23,6 +23,7 @@ module.exports = {
     "valineConfig": {
       "appId": 'WwGjIEWshTx257juizabP08D-gzGzoHsz',// your appId
       "appKey": 'fj8rK8npFA5qNqCzhIWfvYfy', // your appKey
+      "serverURL": 'https://api.apiao.net.cn',
     },
     "nav": [
       {
